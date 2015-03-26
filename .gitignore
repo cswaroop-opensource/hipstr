@@ -1,0 +1,16 @@
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+/.lein-*
+/.env
+*.log
+*.log.*
+*.idea
+*.nrepl-port
+nohup.out
+hipstr.iml
+profiles.clj
